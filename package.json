@@ -13,7 +13,6 @@
     "express": "^5.1.0",
     "helmet": "^7.1.0",
     "jsonwebtoken": "^9.0.2",
-    "mysql2": "^3.11.3",
-    "sqlite3": "^5.1.7"
+    "mysql2": "^3.11.3"
   }
 }
